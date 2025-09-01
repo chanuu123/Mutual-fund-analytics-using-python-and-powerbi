@@ -1,22 +1,26 @@
-# 📊 Mutual Fund Overview & Insights
+# Mutual Fund Overview & Insights
 
-This mutual fund analysis project focuses on identifying top 30 schemes with high return and low risk using Python, Excel, and Power BI.
+A data-driven project that identifies the **Top 30 mutual fund schemes** offering **high returns with low risk**, using **Python**, **Excel**, and **Power BI** for analysis and visualization.
 
-🛠️ **Tools Used:** Python (Pandas, Sklearn), Excel, Power BI  
-📁 **Dataset:** More Than 2500 Mutual Fund Schemes (Top 30 Filtered)
+## Project Objective
 
----
+* Filter **top-performing mutual funds** from a large dataset.
+* Provide actionable insights through an **interactive dashboard**.
+* Help investors make **smarter, low-risk investment decisions**.
 
-## 🧠 Project Goal
+## Tools & Technologies
 
-To identify **top-performing, low-risk mutual fund schemes** using data-driven techniques and present insights through a dynamic, professional Power BI dashboard.
+* Python (Pandas, Scikit-learn) – Data cleaning, normalization, scoring
+* Excel – Data validation and formatting
+* Power BI – Interactive dashboard and visual storytelling
+ 
+## Dataset
 
----
+* Total Schemes: 2,500+
+* Final Selection: Top 30 funds based on scoring algorithm
 
-## 🐍 Python-Based Fund Analysis
 
-I started by importing and exploring a dataset of over 2500 mutual fund schemes.  
-🔗 [Python Script](https://github.com/niravtrivedi23/Mutual-Fund-Analysis/commit/851d5bb1928e3c85b1f22495efb141ed287bf943)
+## Analysis workflow
 
 ### 1. Data Cleaning
 - Removed unnecessary columns
