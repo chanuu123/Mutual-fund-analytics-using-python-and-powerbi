@@ -44,7 +44,7 @@ Custom scoring formula based on:
 
 ### 5. Final Output – Top 30 Funds
 Extracted the **Top 30 Mutual Funds** with best return-low risk balance  
-🔗 [Top 30 Mutual Funds (Excel)] (https://github.com/chanuu123/Mutual-fund-analytics-using-python-and-powerbi/blob/main/top_30_mutual_funds.xlsx)
+🔗 [Top 30 Mutual Funds (Excel)](https://github.com/chanuu123/Mutual-fund-analytics-using-python-and-powerbi/blob/main/top_30_mutual_funds.xlsx)
 
 ## 📈 Power BI Dashboard – Mutual Fund Insights
 
