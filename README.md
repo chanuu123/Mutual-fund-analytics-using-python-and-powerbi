@@ -16,7 +16,7 @@ A data-driven project that identifies the **Top 30 mutual fund schemes** offerin
  
 ## Dataset
 
-* Total Schemes: 2,500+
+* Total Schemes: 2,500+ mutual fund schemes
 * Final Selection: Top 30 funds based on scoring algorithm
 
 
