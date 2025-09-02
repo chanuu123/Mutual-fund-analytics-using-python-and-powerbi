@@ -117,7 +117,7 @@ this solution provides both beginners and experts with a practical way to make *
 | File | Description |
 |------|-------------|
 | [top_30_mutual_funds.xlsx](https://github.com/chanuu123/Mutual-fund-analytics-using-python-and-powerbi/blob/main/top_30_mutual_funds.xlsx) | Final top 30 filtered mutual funds |
-| [Mutual Fund Dashboard.pbix](https://github.com/niravtrivedi23/Mutual-Fund-Analysis/blob/main/Mutual%20Fund%20Dashboard.pbix) | Power BI dashboard |
+| [Mutual Fund Dashboard.pbix](https://github.com/chanuu123/Mutual-fund-analytics-using-python-and-powerbi/blob/main/Mutual%20Fund%20Dashboard.pbix) | Power BI dashboard |
 | [Mutual Fund Dashboard.png](https://github.com/niravtrivedi23/Mutual-Fund-Analysis/blob/main/Mutual%20Fund%20Dashboard%20.png) | Dashboard image preview |
 
 ---
